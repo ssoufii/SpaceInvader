@@ -17,4 +17,5 @@ Necessary Installations:
 1. Python 3.x
 2. Pygame library
 
+To run the game off terminal/CL run the following, python3 SpaceInvader.py, on your terminal/CL.
    
