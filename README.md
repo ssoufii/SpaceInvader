@@ -3,7 +3,7 @@
 
 Description:
 
-This project is a classic Space Invaders game implemented in Python using the Pygame library. Players control a spaceship to defend against descending waves of alien invaders. The goal is to shoot down as many invaders as possible while avoiding enemy fire. The game features a scoring system, lives indicator, and interactive buttons for exit and play again.
+This project is a classic Space Invaders game implemented in Python using the Pygame library. Players control a spaceship to defend against continuous waves of alien invaders. The goal is to shoot down as many invaders as possible while avoiding enemy fire. The game features a scoring system, lives indicator, and interactive buttons for exit and play again.
 
 How To Play: How to Play:
 
